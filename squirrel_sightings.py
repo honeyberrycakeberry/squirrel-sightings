@@ -4,7 +4,7 @@ CS230: Section 7
 Data: central_park_squirrels_2018
 
 #[DEPLOY] IDENTIFY & EXPLAIN - uploaded all necessary files to GitHub, added a requirements txt file so all the packages will be imported
-URL:
+URL: https://squirrel-sightings.streamlit.app/
 
 Description:
 This program shows where squirrels were spotted in Central Park by shift,
